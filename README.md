@@ -1,1 +1,2 @@
-# odin-recipes
+This is a website i made as a project for Odin Project (HTML Project).
+I have added 3 different dishes and by clicking a dish name you can actually get complete recipe consists of Ingredients and steps to make.
